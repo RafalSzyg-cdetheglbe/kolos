@@ -53,9 +53,6 @@ namespace DAL.Migrations
                     b.Property<int?>("GroupID")
                         .HasColumnType("int");
 
-                    b.Property<int>("GrupaID")
-                        .HasColumnType("int");
-
                     b.Property<string>("Imie")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -70,7 +67,7 @@ namespace DAL.Migrations
 
                     b.HasKey("ID");
 
-                    b.HasIndex("GrupaID");
+                    b.HasIndex("GroupID");
 
                     b.ToTable("Historie");
                 });
@@ -86,9 +83,6 @@ namespace DAL.Migrations
                     b.Property<int?>("GroupaID")
                         .HasColumnType("int");
 
-                    b.Property<int>("GrupaID")
-                        .HasColumnType("int");
-
                     b.Property<string>("Imie")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -99,7 +93,7 @@ namespace DAL.Migrations
 
                     b.HasKey("ID");
 
-                    b.HasIndex("GrupaID");
+                    b.HasIndex("GroupaID");
 
                     b.ToTable("Studenci");
                 });
@@ -108,9 +102,7 @@ namespace DAL.Migrations
                 {
                     b.HasOne("Model.Grupa", "Grupa")
                         .WithMany()
-                        .HasForeignKey("GrupaID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("GroupID");
 
                     b.Navigation("Grupa");
                 });
@@ -119,9 +111,7 @@ namespace DAL.Migrations
                 {
                     b.HasOne("Model.Grupa", "Grupa")
                         .WithMany()
-                        .HasForeignKey("GrupaID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("GroupaID");
 
                     b.Navigation("Grupa");
                 });

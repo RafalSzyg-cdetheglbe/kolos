@@ -4,14 +4,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kolokwiumRS", "kolokwiumRS\kolokwiumRS.csproj", "{5E2A256E-94CB-408B-ADA2-65F3A139C39A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DB4E7773-38D2-4204-8A39-157499F00A85} = {DB4E7773-38D2-4204-8A39-157499F00A85}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{12B2DB94-2110-4A3F-A4FF-77A7AAA455AE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{923FEBFB-583F-41AF-841E-6B0A3A5E6290}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{DB4E7773-38D2-4204-8A39-157499F00A85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "BLL\BLL.csproj", "{DB4E7773-38D2-4204-8A39-157499F00A85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_EF", "BLL_EF\BLL_EF.csproj", "{7AD5C32E-C8EA-4E2B-A0DE-808B3E27F9AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL_EF", "BLL_EF\BLL_EF.csproj", "{7AD5C32E-C8EA-4E2B-A0DE-808B3E27F9AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

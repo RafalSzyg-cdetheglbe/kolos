@@ -12,3 +12,11 @@ C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\obj\Debug\net8.0\B
 C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\obj\Debug\net8.0\ref\BLL_EF.dll
 C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\bin\Debug\net8.0\BLL_EF.runtimeconfig.json
 C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\obj\Debug\net8.0\BLL_EF.genruntimeconfig.cache
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\bin\Debug\net8.0\BLL.dll
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\bin\Debug\net8.0\DAL.dll
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\bin\Debug\net8.0\Model.dll
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\bin\Debug\net8.0\BLL.pdb
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\bin\Debug\net8.0\DAL.pdb
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\bin\Debug\net8.0\Model.pdb
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\obj\Debug\net8.0\BLL_EF.csproj.AssemblyReference.cache
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\BLL_EF\obj\Debug\net8.0\BLL_EF.csproj.Up2Date

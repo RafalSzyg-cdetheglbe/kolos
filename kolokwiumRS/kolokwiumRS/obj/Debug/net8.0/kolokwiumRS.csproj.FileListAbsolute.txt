@@ -135,3 +135,11 @@ C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\obj\Debug\net
 C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\obj\Debug\net8.0\kolokwiumRS.pdb
 C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\obj\Debug\net8.0\kolokwiumRS.genruntimeconfig.cache
 C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\obj\Debug\net8.0\ref\kolokwiumRS.dll
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\BLL.dll
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\BLL_EF.dll
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\DAL.dll
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\Model.dll
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\BLL_EF.pdb
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\BLL.pdb
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\DAL.pdb
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\Model.pdb
