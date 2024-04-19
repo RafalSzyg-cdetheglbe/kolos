@@ -13,6 +13,7 @@ builder.Services.AddDbContext<KolokwiumContext>();
 
 builder.Services.AddScoped<StudentBLL_EF>();
 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

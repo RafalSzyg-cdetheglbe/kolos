@@ -143,3 +143,4 @@ C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net
 C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\BLL.pdb
 C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\DAL.pdb
 C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\Model.pdb
+C:\Users\Student RM4-3073 10\Desktop\kolos\kolokwiumRS\kolokwiumRS\bin\Debug\net8.0\Newtonsoft.Json.dll
