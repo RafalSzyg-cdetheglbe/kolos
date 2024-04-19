@@ -10,9 +10,9 @@ namespace Model
     public class Student
     {
         public int ID { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public int? GroupID { get; set; }
-        public Group Group { get; set; }
+        public string Imie { get; set; }
+        public string Nazwisko { get; set; }
+        public int? GroupaID { get; set; }
+        public Grupa Grupa { get; set; }
     }
 }
