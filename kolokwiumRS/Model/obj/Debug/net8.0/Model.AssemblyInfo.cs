@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("kolokwiumRS")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19709134711c51d233be9d4dca5129bdcbcc866b")]
-[assembly: System.Reflection.AssemblyProductAttribute("kolokwiumRS")]
-[assembly: System.Reflection.AssemblyTitleAttribute("kolokwiumRS")]
+[assembly: System.Reflection.AssemblyProductAttribute("Model")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.

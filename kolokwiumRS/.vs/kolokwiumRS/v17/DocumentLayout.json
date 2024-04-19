@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Student RM4-3073 10\\Desktop\\kolos\\kolokwiumRS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{923FEBFB-583F-41AF-841E-6B0A3A5E6290}|DAL\\DAL.csproj|c:\\users\\student rm4-3073 10\\desktop\\kolos\\kolokwiumrs\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{923FEBFB-583F-41AF-841E-6B0A3A5E6290}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B2DB94-2110-4A3F-A4FF-77A7AAA455AE}|Model\\Model.csproj|c:\\users\\student rm4-3073 10\\desktop\\kolos\\kolokwiumrs\\model\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B2DB94-2110-4A3F-A4FF-77A7AAA455AE}|Model\\Model.csproj|solutionrelative:model\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B2DB94-2110-4A3F-A4FF-77A7AAA455AE}|Model\\Model.csproj|c:\\users\\student rm4-3073 10\\desktop\\kolos\\kolokwiumrs\\model\\grupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B2DB94-2110-4A3F-A4FF-77A7AAA455AE}|Model\\Model.csproj|solutionrelative:model\\grupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B2DB94-2110-4A3F-A4FF-77A7AAA455AE}|Model\\Model.csproj|c:\\users\\student rm4-3073 10\\desktop\\kolos\\kolokwiumrs\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B2DB94-2110-4A3F-A4FF-77A7AAA455AE}|Model\\Model.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B2DB94-2110-4A3F-A4FF-77A7AAA455AE}|Model\\Model.csproj|c:\\users\\student rm4-3073 10\\desktop\\kolos\\kolokwiumrs\\model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12B2DB94-2110-4A3F-A4FF-77A7AAA455AE}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 10\\Desktop\\kolos\\kolokwiumRS\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Student RM4-3073 10\\Desktop\\kolos\\kolokwiumRS\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T13:58:17.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 10\\Desktop\\kolos\\kolokwiumRS\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "C:\\Users\\Student RM4-3073 10\\Desktop\\kolos\\kolokwiumRS\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T13:46:35.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Historia.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 10\\Desktop\\kolos\\kolokwiumRS\\Model\\Historia.cs",
+              "RelativeDocumentMoniker": "Model\\Historia.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 10\\Desktop\\kolos\\kolokwiumRS\\Model\\Historia.cs",
+              "RelativeToolTip": "Model\\Historia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:47:11.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grupa.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 10\\Desktop\\kolos\\kolokwiumRS\\Model\\Grupa.cs",
+              "RelativeDocumentMoniker": "Model\\Grupa.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 10\\Desktop\\kolos\\kolokwiumRS\\Model\\Grupa.cs",
+              "RelativeToolTip": "Model\\Grupa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:47:00.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Student RM4-3073 10\\Desktop\\kolos\\kolokwiumRS\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\Student RM4-3073 10\\Desktop\\kolos\\kolokwiumRS\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:46:47.136Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
