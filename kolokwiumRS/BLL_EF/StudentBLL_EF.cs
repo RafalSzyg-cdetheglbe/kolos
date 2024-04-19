@@ -1,5 +1,7 @@
 ﻿using BLL;
 using DAL;
+using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -46,14 +48,10 @@ namespace BLL_EF
 
         public void AddStudent(StudentDTO student)
         {
-            var newStudent = new Model.Student
-            {
-                Imie = student.Imie,
-                Nazwisko = student.Nazwisko,
-                GroupaID = student.GroupID
-            };
-            _context.Studenci.Add(newStudent);
-            _context.SaveChanges();
+            _context.Database.ExecuteSqlRaw("EXEC DodajStudenta @Imie, @Nazwisko, @GroupID",
+                 new SqlParameter("@Imie", student.Imie),
+                     new SqlParameter("@Nazwisko", student.Nazwisko),
+                         new SqlParameter("@GroupID", student.GroupID ?? (object)DBNull.Value)); //Konwersja na DBNull, jeśli GroupID jest null
         }
 
         public void UpdateStudent(StudentDTO student)
